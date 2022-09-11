@@ -31,7 +31,7 @@ The analysis of the election shows that:
      
 
     
- ## Challenge Overview
+ ## Election Audit Overview
  Seth, a Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
 
  You provided Seth and his team with the findings of the following tasks in your first draft of the election audit:
@@ -50,8 +50,8 @@ The findings of the following tasks were added to the final election audit:
 2. Calculate the percentage of votes each county contributed to the election.
 3. Determine which county had the largest turnout.
 
-## Challenge Summary
-Election Results
+## Election_Audit Summary
+### Election Results
 Total Votes: 369,711
 
 County Results:
